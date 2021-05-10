@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ----
-Your text
+**DogeCoin** is a weird crypto that is wildy unpredictable
 Use the left arrow to go back!
